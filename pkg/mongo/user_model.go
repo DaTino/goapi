@@ -1,3 +1,5 @@
+package mongo
+
 import (
   "go_rest_api/pkg"
   "gopkg.in/mgo.v2/bson"
