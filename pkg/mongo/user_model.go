@@ -1,9 +1,9 @@
 package mongo
 
 import (
-  "go_rest_api/pkg"
+  "goapi/pkg"
   "gopkg.in/mgo.v2/bson"
-  "gopjg.in/mgo.v2"
+  "gopkg.in/mgo.v2"
 )
 
 type userModel struct {
